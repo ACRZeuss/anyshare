@@ -1,12 +1,12 @@
 const firebaseConfig = {
 // Add your firebase config here
-apiKey: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-authDomain: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-projectId: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-storageBucket: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-messagingSenderId: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-appId: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-measurementId: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+apiKey: "AIzaSyCGeB8MMMxQZ_GH7JmUnn4kibmREhYc2XI",
+authDomain: "file-exchange-73707.firebaseapp.com",
+projectId: "file-exchange-73707",
+storageBucket: "file-exchange-73707.appspot.com",
+messagingSenderId: "828328469791",
+appId: "1:828328469791:web:41bfb4134f9a91c9cc3c2a",
+measurementId: "G-QB96L1BMR2"
 };
 
 // Initialize Firebase

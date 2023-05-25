@@ -1,0 +1,12 @@
+{
+  "name": "anyshare",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\" style=\"font-size:50px;\"><a href=\"https://anyshare.vercel.app\">Any Share</a></h1>",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
